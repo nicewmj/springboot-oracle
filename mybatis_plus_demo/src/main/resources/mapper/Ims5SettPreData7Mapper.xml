@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dimai.mybatis_plus_demo.mapper.Ims5SettPreData7Mapper">
+
+    <select id="select" resultType="com.dimai.mybatis_plus_demo.entity.Ims5SettPreData7">
+
+
+    </select>
+</mapper>
